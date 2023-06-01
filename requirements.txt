@@ -1,0 +1,13 @@
+pyTelegramBotAPI
+docx
+mime
+requests
+datetime
+keyboa
+openpyxl
+pandas
+pytz
+scikit-learn
+xlrd
+stanza
+imaplib
